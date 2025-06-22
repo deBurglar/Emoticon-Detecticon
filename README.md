@@ -20,7 +20,7 @@ An example of 'train' looks as follows.
 
 This bar chart shows the distribution of emotions in the training dataset.
 
-![Training Emotion Distribution](images/train_emotion_distribution.png)
+![Training Emotion Distribution](images/"C:\Users\shrey\OneDrive\Documents\emotion-detection\images\emotion-distribution.jpg")
 
 
 
