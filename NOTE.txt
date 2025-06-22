@@ -1,0 +1,3 @@
+### ⚠️ Note on Real-world Predictions
+
+While the model achieves ~89% accuracy on validation data, it may occasionally misclassify casual or unseen phrases due to the limitations of TF-IDF and linear SVM. Enhancements like using BERT, incorporating n-grams, or retraining on more diverse data could improve real-world accuracy.
