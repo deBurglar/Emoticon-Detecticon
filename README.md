@@ -38,6 +38,9 @@ This bar chart shows the distribution of emotions in the training dataset.
 ![Confusion Matrix](images/test_confusion_matrix.png)
 
 
+### CLASSIFICATION REPORT 
+
+![Classification Report](images/classification_report.png)
 
 ### 📊 Observations:
 - Classes 0 and 1 perform best (F1 > 0.90)
