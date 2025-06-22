@@ -9,6 +9,7 @@ Paper: CARER: Contextualized Affect Representations for Emotion Recognition
 # An example of 'train' looks as follows.
 {
    "label": 0,
+   
    "text": "im feeling quite sad and sorry for myself but ill snap out of it soon"
 }
 
