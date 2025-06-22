@@ -29,17 +29,27 @@ An example of 'train' looks as follows.
 | **Weighted avg** | Accounts for how frequent each emotion appears                   |
 
 
+### 🖼️ Example Confusion Matrix
 
-## OBSERVATIONS
+![Confusion Matrix](images/test_confusion_matrix.png)
 
--Classes 0 and 1 (likely joy/happy and sadness) are doing very well (F1 > 0.90)
 
--Classes 2 and 5 have slightly lower recall → model is missing some instances
 
-  Could improve by:
+### 📊 Observations:
+- Classes 0 and 1 perform best (F1 > 0.90)
+- Classes 2 and 5 show slightly lower recall
+- Overall weighted F1-score ~ 0.89
 
-  Trying non-linear kernel (e.g., rbf)
+## 🚀 How to Use
 
-  Hyperparameter tuning (e.g., changing C, gamma)
+### ▶️ CLI Prediction (Already Implemented)
 
-  Using n-grams in TF-IDF (e.g., ngram_range=(1,2)
+in bash:
+cd app/
+python cli_predict.py
+
+Enter a sentence to detect its emotion:
+> I miss my friends so much 😔
+
+🧠 Predicted Emotion: SADNESS
+
