@@ -5,12 +5,8 @@ The authors constructed a set of hashtags to collect a separate dataset of Engli
 
 Homepage: https://github.com/dair-ai/emotion_dataset
 Paper: CARER: Contextualized Affect Representations for Emotion Recognition
-Point of Contact: ellfae@gmail.com
-Size of downloaded dataset files: 3.95 MB
-Size of the generated dataset: 4.16 MB
-Total amount of disk used: 8.11 MB
 
-An example of 'train' looks as follows.
+# An example of 'train' looks as follows.
 {
    "label": 0,
    "text": "im feeling quite sad and sorry for myself but ill snap out of it soon"
