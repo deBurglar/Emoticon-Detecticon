@@ -16,6 +16,13 @@ An example of 'train' looks as follows.
    "text": "im feeling quite sad and sorry for myself but ill snap out of it soon"
 }
 
+### 📊 Emotion Distribution in Training Set
+
+This bar chart shows the distribution of emotions in the training dataset.
+
+![Training Emotion Distribution](images/train_emotion_distribution.png)
+
+
 
 ## EVALUAATION METRICS 
 
