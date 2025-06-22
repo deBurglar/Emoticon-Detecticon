@@ -20,9 +20,19 @@ This bar chart shows the distribution of emotions in the training dataset.
 ![Emotion Distribution](images/emotion-distribution.jpg)
 
 
+## 🔢 Emotion Labels Mapping
+
+| Label | Emotion   | Emoji     |
+|-------|-----------|-----------|
+| 0     | Sadness   | 😢       |
+| 1     | Joy       | 😂       |
+| 2     | Fear      | 😨       |
+| 3     | Anger     | 😠       |
+| 4     | Surprise  | 😲       |
+| 5     | Love      | ❤️       |
 
 
-## EVALUAATION METRICS 
+## EVALUATION METRICS 
 
 | Metric           | Meaning                                                          |
 | ---------------- | ---------------------------------------------------------------- |
